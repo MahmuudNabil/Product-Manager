@@ -1,4 +1,5 @@
 # Product-Manager
+this is desktop application .
 ## this project enable you to :- 
 1. add product
 2. insert product
